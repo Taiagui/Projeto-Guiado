@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { FiPlus, FiTrash2 } from "react-icons/fi";
-import "./list.css";
+import "./list.styles.css"
 
 const List = () => {
   const [list, setList] = useState([]);

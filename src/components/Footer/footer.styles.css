@@ -1,10 +1,12 @@
 .footer{
-    background-color: yellow;
-    color:black;
-    width: auto;
-    font-size: 20px bold;
+    background-color: rgb(255, 0, 0);
+    color:rgb(255, 255, 255);
+    font-size: 20px;
     height: 50px;
     text-align: center;
-    padding-top: 10px;
+    padding-top: 20px;
+    position:absolute;
+    bottom:0;
+    width:100%;
 
 }

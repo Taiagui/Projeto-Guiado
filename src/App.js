@@ -1,14 +1,12 @@
-import Header from './components/Header/Header'
-import List from './components/List/List'
+import './Styles/global.css'
+import Routes from './components/Routs/Routs'
 
 function App() {
   return (
-    <>
-      <Header />
-      <List />
-    </>
+    <div>      
+      <Routes/> 
+    </div>   
   )
-   
 }
 
-export default App
+export default App;
